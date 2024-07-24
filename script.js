@@ -176,7 +176,7 @@ const questions = [
 ];
 
 const dares = [
-  "Do a silly dance for 30 seconds.",
+  "Do a silly dance for 29 seconds.",
   "Sing a song chosen by the group.",
   "Do a silly dance for 30 seconds.",
   "Sing a song chosen by the group.",
